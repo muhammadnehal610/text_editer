@@ -1,0 +1,17 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; /* remove the gap so it doesn't close */
+}
+.dropdown{
+    display: inline-block;
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.button{
+    border-radius: 50%;
+    
+    
+}
